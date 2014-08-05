@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<!-- Entirety of post that resides under content inside default layout -->
+<div class="post">
+	<header>
+		<!-- Post information -->
+		<h2>{{ page.title }}</h2>
+		<p class="text-muted meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} by {{ page.author }}{% endif %}</p>
+	</header>
+	<article>
+		<!-- Post content -->
+		{{ content }}
+	</article>
+</div>

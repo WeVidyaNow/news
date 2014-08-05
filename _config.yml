@@ -1,0 +1,15 @@
+# Site settings
+title: News
+email: contact@wevidyanow.com
+# description: "We sometimes play games then complain about them."
+baseurl: "/news"
+url: "https://wevidyanow.com"
+# twitter_username: jekyllrb
+# github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Destination
+destination: /var/www/news.wevidyanow.com
