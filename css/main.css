@@ -1,12 +1,103 @@
-h1, h2, h3, h4, h5, h6 {
-	font-family: Georgia, "Times New Roman", sans-serif;
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,600,800);
+
+body {
+	font: 13px/2em "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-div.page-header h1 a {
-	color: #000;
+h1, h2, h3, h4, h5, h6 {
+	font-size: 100%;
+}
+
+a {
+	text-decoration: none;
+	color: #30a1f9;
+}
+
+a:hover {
+	color: #1186e3;
+}
+
+header h1 a {
+	color: #d44019;
 	text-decoration: none;
 }
 
-div.page-header h1 small a {
-	color: #adadad !important;
+header h1 a:hover {
+	color: #F24B2E;
 }
+
+header h1 span {
+	font-weight: 600;
+	font-size: 85%;
+}
+
+header h1 {
+	font-size: 1.5em;
+}
+
+h2 {
+	font-size: 125%;
+}
+
+.wrapper {
+	font-size: 115%;
+	max-width: 620px;
+	line-height: 1.5em;
+	margin: 0 auto;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.posts {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	margin-bottom: 1em;
+}
+
+.posts li {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	line-height: 2em;
+}
+
+.posts li span {
+	margin-right: 1em;
+	font-size: 80%;
+	color: rgb(125,125,125);
+}
+
+blockquote {
+	padding: 0px 20px;
+	margin: 15px 0;
+	border-left: #5a5a5a;
+}
+
+blockquote p {
+	color: #7a7a7a;
+}
+
+article {
+	overflow: auto;
+	word-wrap: break-word;
+}
+
+article img {
+	display: block;
+	margin: 0 auto;
+	max-width: 100%;
+	vertical-align: middle;
+}
+
+footer #date, footer #back {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+footer #date {
+	float: right;
+	color: #aaa;
+}
+

@@ -1,7 +1,7 @@
 # Site settings
 title: News
 email: contact@wevidyanow.com
-# description: "We sometimes play games then complain about them."
+description: "We sometimes play games then complain about them."
 baseurl: "/news"
 url: "https://wevidyanow.com"
 # twitter_username: jekyllrb
