@@ -1,5 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,600,800);
 
+/* Some items may be vestigial and unnecessary, if you remove them, please specify in the commit message */
+
 body {
 	font: 13px/2em "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	padding-bottom: 20px;
@@ -9,41 +11,21 @@ h1, h2, h3, h4, h5, h6 {
 	font-size: 100%;
 }
 
+h2 {
+	font-size: 125%;
+}
+
 a {
 	text-decoration: none;
-	color: #30a1f9;
+	color: #40C0CB;
 }
 
 a:hover {
-	color: #1186e3;
-}
-
-header img {
-	float:left;
-	padding: 5px;
-	padding-right: 20px;
-}
-
-header h1 a {
-	color: #d44019;
-	text-decoration: none;
-}
-
-header h1 a:hover {
-	color: #F24B2E;
-}
-
-header h1 span {
-	font-weight: 600;
-	font-size: 85%;
+	color: #00A8C6;
 }
 
 header h1 {
 	font-size: 1.5em;
-}
-
-h2 {
-	font-size: 125%;
 }
 
 nav ul {
@@ -101,7 +83,7 @@ ul.posts li {
 	line-height: 2em;
 }
 
-ul.posts li span {
+.posts li span {
 	margin-right: 1em;
 	font-size: 80%;
 	color: rgb(125,125,125);
@@ -168,13 +150,13 @@ figure {
 	background-color: #eee;
 }
 
-footer #date, footer #back {
+footer .date, footer .back {
 	overflow: hidden;
 	text-overflow: ellipsis;
 	white-space: nowrap;
 }
 
-footer #date {
+footer .date {
 	float: right;
 	color: #aaa;
 }
