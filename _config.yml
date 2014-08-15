@@ -13,3 +13,6 @@ permalink: pretty
 
 # Destination
 destination: /var/www/news.wevidyanow.com
+
+# Assets
+asset_path: _assets
