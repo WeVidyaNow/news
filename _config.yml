@@ -1,7 +1,7 @@
 # Site settings
 title: News
 email: contact@wevidyanow.com
-baseurl: "/news"
+baseurl: ""
 url: "https://wevidyanow.com"
 
 # Build settings
@@ -9,4 +9,4 @@ markdown: kramdown
 permalink: pretty
 
 # Destination
-destination: /var/www/news.wevidyanow.com
+destination: /var/www/news

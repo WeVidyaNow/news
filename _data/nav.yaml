@@ -1,8 +1,23 @@
 - title: About
-  url: /news/about
-
-- title: Origins
-  url: /news/origins
+  url: /about
 
 - title: Posts
-  url: /news
+  url: /
+
+- title: Origins
+  url: /origins
+
+- title: Circlejerk
+  url: http://circlejerk.wevidyanow.com
+
+- title: Rankings
+  url: http://rank.wevidyanow.com
+
+- title: Wiki
+  url: http://wiki.wevidyanow.com
+
+- title: Seafile
+  url: https://ms.wevidyanow.com
+
+- title: Bans
+  url: /noseless

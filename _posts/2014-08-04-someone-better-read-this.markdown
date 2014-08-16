@@ -3,7 +3,7 @@ layout: post
 title:  "Someone better read this shit, I swear"
 date:   2014-08-04
 author: Battleroid
-categories: news
+categories: updates
 ---
 
 I managed to put together a simple layout and some junk with Bootstrap for our "News & Updates" log. However, for a few weeks or months you should consider this log to be under constant tweaking. I am still learning Bootstrap and eventually need to figure out how to get browsing by category working with Jekyll, along with possibly pagination. In the meantime I want to be a little more transparent about what I actually do on occasion, might post some things I have fixed or keep you posted on minor issues. In the event of outages planned or not I will not only post them on Github (which will publish it here as well), but also publish them on the Steam group to help prevent panic.
