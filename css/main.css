@@ -155,6 +155,10 @@ article img, article figure img {
 	border-radius: 3px;
 }
 
+img.center {
+	text-align: center;
+}
+
 figure figcaption {
 	font-size: 85%;
 	padding-right: 10px;
@@ -200,4 +204,33 @@ pre code {
 	padding: 0px;
 	font-size: 100%;
 	background-color: transparent;
+}
+
+ul.origins {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+ul.origins li {
+	margin-bottom: 10px;
+}
+
+dl {
+	background-color: #eee;
+	padding: 5px 7px;
+	border-radius: 3px;
+}
+
+dt {
+	font-weight: 600;
+	margin-top: 7px;
+}
+
+dt:first-child {
+	margin-top: 0px;
+}
+
+dd {
+	margin: 0;
 }
