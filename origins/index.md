@@ -3,6 +3,8 @@ layout: page
 title: Origin Stories
 ---
 
+Some stories on how people found and enjoy this community.
+
 <ul class="origins">
 {% for person in site.data.origins %}
 	<li>
