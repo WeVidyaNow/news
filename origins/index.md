@@ -15,10 +15,8 @@ Some stories on how people found and enjoy this community.
 			<dd>{{ person.joined }}</dd>
 			<dt>Why?</dt>
 			<dd>{{ person.why }}</dd>
-			{% if person.enjoy %}
-				<dt>Do you enjoy this community?</dt>
-				<dd>{{ person.enjoy }}</dd>
-			{% endif %}
+			<dt>Do you enjoy this community?</dt>
+			<dd>{{ person.enjoy }}</dd>
 		</dl>
 	</li>
 {% endfor %}

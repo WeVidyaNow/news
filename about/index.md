@@ -17,7 +17,7 @@ Including a number to run silly things such as:
 
 * an imageboard (with WebM support, along with sound and a higher limit than what 4chan allows)
 * a rankings board (a homage to Raidcall's crowns)
-* a wiki (then for BF3, now for whatever)
+* <span class="strike">a wiki (then for BF3, now for whatever, <span class="spoiler">might kill it, not sure yet</span>)</span>
 * a private mail server (get with me if you want an account)
 * and seafile for sharing media.
 
@@ -31,10 +31,9 @@ Most recently the Mumble information was requested to be removed from the genera
 
 # "You don't own your own server"
 
-
 The request to have the server information removed was successful, however, some individuals did not take this as peacefully as others. The [original thread](http://archive.foolz.us/vg/thread/60128106/#60215995) (and post) can explain it all.
 
-One such post by an anonymous poster makes it readily apparent that we have no need for them any longer:
+One such post by an anonymous poster made it readily apparent that we have no need for them any longer:
 
 > Literally who? who are these people. 
 
@@ -52,7 +51,9 @@ The platoon "Freedom Fighters" was created shortly after the Reddit vs. 4chan ma
 
 With the release of platoons in Battlefield 4 the platoon was recreated, this time for Mumble regulars instead.
 
-Neo BFG somehow has confused the platoon and its members for a rogue group that has "taken over" the Mumble server. This is not the case, this has never been the case. Though it is fun to let applications from Neo BFG members sit in the application queue for weeks and months.
+Neo BFG somehow has confused the platoon and its members for a rogue group that has "taken over" the Mumble server. This is not the case, this has never been the case. It is still the same group that formed the original platoon in Battlefield 3. **Yes, they are that Neo.**
+
+Whether or not they truly believed this is unknown, however, it is still just as hilarious.
 
 # Reality of the Situation
 
@@ -60,4 +61,6 @@ The majority of people in the group do not care about the generals or the platoo
 
 # Contact
 
-You can contact me through [contact@wevidyanow.com](mailto:contact@wevidyanow.com) or through Mumble under Battleroid. If either of those fail, the [Steam group](http://steamcommunity.com/groups/wevidyanow) is always available. Please only contact me if it is urgent or if you are facing a technical issue.
+You can contact me through [contact@wevidyanow.com](mailto:contact@wevidyanow.com) or through Mumble under Battleroid. If either of those fail, the [Steam group](http://steamcommunity.com/groups/wevidyanow) is always available.
+
+Please only contact me if it is urgent or if you are facing a technical issue.

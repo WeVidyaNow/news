@@ -13,11 +13,11 @@
 - title: Rankings
   url: http://rank.wevidyanow.com
 
-- title: Wiki
-  url: http://wiki.wevidyanow.com
-
 - title: Seafile
   url: https://ms.wevidyanow.com
+
+- title: Mail
+  url: /mail
 
 - title: Bans
   url: /noseless

@@ -2,9 +2,12 @@
 <html lang="en">
 	{% include head.html %}
 	<body>
+		<a name="top"></a>
 		<div class="wrapper">
-			{% include header.html %}
-			{% include nav.html %}
+			<div class="header-wrapper">
+				{% include header.html %}
+				{% include nav.html %}
+			</div>
 			{{ content }}
 		</div>
 	</body>
