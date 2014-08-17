@@ -259,3 +259,14 @@ tr:first-child {
 td, th {
 	padding: 7px;
 }
+
+span.spoiler {
+	background: #000;
+	color: transparent;
+	border-radius: 3px;
+}
+
+span.spoiler:hover {
+	background: #000;
+	color: #FFF;
+}

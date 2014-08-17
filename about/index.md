@@ -38,6 +38,26 @@ One such post by an anonymous poster makes it readily apparent that we have no n
 
 > Literally who? who are these people. 
 
+# FREE
+
+The platoon "Freedom Fighters" was created shortly after the Reddit vs. 4chan matches. Its members were comprised of the current Raidcall regulars and people in the matches. The purpose of the platoon was a joke, the platoon presentation makes this readily apparent:
+
+> Freedom Freedom Freedom
+> 
+> Terrorists Jesus
+> 
+> Atheists
+> 
+> This image is brought to you by: Amazon, Walmart, Goldmann Sachs, Dell, Hewllet-Packard, Bank of America, Chase, Wells Fargo, McDonalds, The Coca-Cola Company, Pepsi, Dupont, Exxon Mobil, Chevron, Starbucks, In and Out, Krispy Kreme, Five Guys, Burger King, Taco Bell, Kmart, KFC, Macys, Sears, JCPenny, Armalite, Winchester, Magpul, Colt, Lockheed, Boeing, GE, Ford, General Motors, 9GAG, Memebase, Funnyjunk, Comcast, At&t, Charter, Dish Network, Roadrunner, Windows, Google, John Deere, Bioware ,Valve, EA, Apple, Activision, Blizzard, Enron, MGM, Microsoft, Dennys, IHOP, Costco, Sams Club, Bethesda, Intel, Home Depot, Lowes, Staples, Office Depot, Pizza Hut, Dominos, Little Caesars, Papa Johns, Playboy, Malboro, Hooters, Crazyhorse, Subway, Quiznos, Marie Calendars, NFL, NBA, MLG, Sam Adams, Bud Light, Budweiser, Coors Light, Church of Scientology, John Madden, Tom Cruise, Bruce Willis, Sylvester Stallone, Snoop Dogg, Tupac, Red Bull, Michael Bay, George Lucas, Southpark, WWE, Baseball, MMA, Skrillex, Stallman, Reagan, Nixon, Kennedy, George Bush and Freedom FUCK YEAH 
+
+With the release of platoons in Battlefield 4 the platoon was recreated, this time for Mumble regulars instead.
+
+Neo BFG somehow has confused the platoon and its members for a rogue group that has "taken over" the Mumble server. This is not the case, this has never been the case. Though it is fun to let applications from Neo BFG members sit in the application queue for weeks and months.
+
+# Reality of the Situation
+
+The majority of people in the group do not care about the generals or the platoons of members from them. They are welcome to join the group regardless of where they came from. However overly obnoxious people will cause friction among the existing population <span class="spoiler">(take note Samuel)</span> which might provoke an administrative response.
+
 # Contact
 
 You can contact me through [contact@wevidyanow.com](mailto:contact@wevidyanow.com) or through Mumble under Battleroid. If either of those fail, the [Steam group](http://steamcommunity.com/groups/wevidyanow) is always available. Please only contact me if it is urgent or if you are facing a technical issue.
