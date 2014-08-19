@@ -40,7 +40,7 @@ If you can stand my voice this video might be for you.
 
 # Thunderbird Setup (images)
 
-I hastily through together an image walkthrough for those who cannot use the video.
+I hastily threw together an image walkthrough for those who cannot use the video.
 
 <figure>
 	<img src="{{ site.url }}/assets/mail1.jpg">

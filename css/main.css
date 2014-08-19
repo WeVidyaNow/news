@@ -2,6 +2,8 @@
 
 body {
 	font: 13px/2em "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	background-image: url(/assets/pattern.png);
+	background-repeat: repeat;
 }
 
 h1, h2, h3, h4, h5, h6 {
