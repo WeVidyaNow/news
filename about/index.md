@@ -61,15 +61,16 @@ Due to one particular individual the owners for one official server began to up 
 
 Lastly their leader(s) made [several long comments]({{ site.url }}/assets/bf4-sas-rebuttal.png) on the public page of Freedom Fighters, a long winded reply was made, but received no reaction. It is assumed to this day that they are still ass blasted.
 
+# Reality of the Situation
+
+The majority of people in the group do not care about the generals or the platoons of members from them. They are welcome to join the group regardless of where they came from. However overly obnoxious people will cause friction among the existing population <span class="spoiler">(take note Samuel)</span> which might provoke an administrative response.
+
 # Miscellaneous Factoids
 
 1. We used to own and operate a Battlefield 3 64 slot server, which was hardly used. However, on occasion a mod Invisibro would create a sticky on /v/ to attract people to play. Eventually it was shutdown due to lack of attention. Moot iirc joined the Raidcall at one point to play.
 2. We also owned and operated a Battlefield 4 server, first for 24 slots. No one joined except one day we managed to get some people from the generals to join for a bit. It died then another was purchased this time 10 slots. Was used more among the group for fun little games amongst ourselves. On both occasions when the server died no one said a thing, yet people in the generals often say they would "love to have a server for the group". Yet it almost always will remain empty. Moral of the story: Don't buy servers unless you have a group that will actually play on them, you're wasting your money if you don't.
-	* See BFG Mumble that died after two months of use <span class="spoiler">(it was pretty much dead all the time, hilarious)</span>.
-
-# Reality of the Situation
-
-The majority of people in the group do not care about the generals or the platoons of members from them. They are welcome to join the group regardless of where they came from. However overly obnoxious people will cause friction among the existing population <span class="spoiler">(take note Samuel)</span> which might provoke an administrative response.
+	* See BFG Mumble that died after two months <span class="spoiler">no</span> use.
+	* They have started another supposedly for three months, it will be just as inactive as before.
 
 # Contact
 
