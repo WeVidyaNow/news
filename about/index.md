@@ -18,7 +18,7 @@ Including a number to run silly things such as:
 * an imageboard (with WebM support, along with sound and a higher limit than what 4chan allows)
 * a rankings board (a homage to Raidcall's crowns)
 * <span class="strike">a wiki (then for BF3, now for whatever, <span class="spoiler">might kill it, not sure yet</span>)</span>
-* a private mail server (get with me if you want an account)
+* a private mail server (see [mail](/mail))
 * and seafile for sharing media.
 
 The Mumble and group in general is far from dead; The group serves as a waypoint for people to join up and do whatever they would like. We have managed to survive for about three years now and continue to collect persons from a variety of locations around the globe.
@@ -27,7 +27,7 @@ The Mumble and group in general is far from dead; The group serves as a waypoint
 
 Due to the lack of interest in Battlefield 4 among the regular members, the generals were no longer maintained and continued. This allowed a group to manifest and take over the Battlefield generals with the release of Battlefield 4. 
 
-Most recently the Mumble information was requested to be removed from the generals altogether. The primary reason behind this was due to the lack of new members and poor attitude amongst some of the new members. It was decided amongst the proprietors of the group to simply remove the information.
+Most recently the Mumble information was requested to be removed from the generals altogether. The primary reason behind this was due to the lack of new members and poor attitude amongst some of the new members. It was decided by the proprietors of the group to simply remove the information.
 
 # "You don't own your own server"
 
@@ -69,8 +69,9 @@ The majority of people in the group do not care about the generals or the platoo
 
 1. We used to own and operate a Battlefield 3 64 slot server, which was hardly used. However, on occasion a mod Invisibro would create a sticky on /v/ to attract people to play. Eventually it was shutdown due to lack of attention. Moot iirc joined the Raidcall at one point to play.
 2. We also owned and operated a Battlefield 4 server, first for 24 slots. No one joined except one day we managed to get some people from the generals to join for a bit. It died then another was purchased this time 10 slots. Was used more among the group for fun little games amongst ourselves. On both occasions when the server died no one said a thing, yet people in the generals often say they would "love to have a server for the group". Yet it almost always will remain empty. Moral of the story: Don't buy servers unless you have a group that will actually play on them, you're wasting your money if you don't.
-	* See BFG Mumble that died after two months <span class="spoiler">no</span> use.
-	* They have started another supposedly for three months, it will be just as inactive as before.
+	* See BFG Mumble that died after two months of <span class="spoiler">no</span> use.
+	* They have started another supposedly for three months, it will be just as inactive as before whether or not they want to admit it.
+3. August 24th, 2014 was the first day we had more people than channels in the Mumble (since munin has been recording which was about Jan 2014). We also have had about 370 registered users captured by the Rankings application.
 
 # Contact
 
