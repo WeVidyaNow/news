@@ -9,4 +9,14 @@
 	<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
 	<link rel="stylesheet" href="{{ "/css/syntax.css" | prepend: site.baseurl }}">
 	<link rel="icon" href="{{ "/assets/favicon.png" | prepend: site.baseurl }}" type="image/png">
+	<script src="//code.jquery.com/jquery-2.1.1.min.js"></script>
+	<script>
+		$.getJSON("//wevidyanow.com/quote.php", function(json) {
+			console.log(json.id);
+			var quoteid = document.getElementById("quote");
+			author = "<a href='http://wevidyanow.com:7000/view/user/" + json.author + "'>" + json.author + "</a>";
+			quote = "<a href='http://wevidyanow.com:7000/view/id/" + json.id + "'>" + json.quote + "</a>";
+			quoteid.innerHTML = "<p>" + quote + "<cite> by " + author + "</cite></p>";
+				});
+	</script>
 </head>

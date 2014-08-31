@@ -281,3 +281,12 @@ video {
 	width: 100%;
 	border-radius: 3px;
 }
+
+#quote a {
+	text-decoration: none;
+	color: #000;
+}
+
+#quote .quote, #quote cite, #quote cite a {
+	color: #838383 !important;
+}
