@@ -7,17 +7,20 @@
 - title: Origins
   url: /origins
 
-- title: Circlejerk
+- title: CJ
   url: http://circlejerk.wevidyanow.com
 
-- title: Rankings
+- title: Ranks
   url: http://rank.wevidyanow.com
 
-- title: Seafile
+- title: SF
   url: https://ms.wevidyanow.com
 
 - title: Mail
   url: /mail
+
+- title: Graveyard
+  url: /graveyard
 
 - title: Noseless
   url: /noseless

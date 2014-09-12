@@ -266,6 +266,7 @@ span.spoiler {
 	background: #000;
 	color: transparent;
 	border-radius: 3px;
+	padding: 0 3px;
 }
 
 span.spoiler:hover {
