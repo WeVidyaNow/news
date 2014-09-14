@@ -33,6 +33,7 @@ body {
 	margin-bottom: 1.15em;
 	text-transform: uppercase;
 	letter-spacing: 10px;
+	cursor: pointer;
 }
 
 .candle video {
@@ -52,7 +53,7 @@ body {
 
 	<ul>
 	{% for person in site.data.dead %}
-		<li>{{ person.name }}</li>
+		<li {% if person.why %}title="{{ person.why }}"{% endif %}>{{ person.name }}</li>
 	{% endfor %}
 	</ul>
 </div>
