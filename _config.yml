@@ -1,6 +1,7 @@
 # Site settings
 title: News
 email: contact@wevidyanow.com
+description: Making elitism better.
 baseurl: ""
 url: "https://wevidyanow.com"
 
