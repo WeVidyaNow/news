@@ -2,7 +2,7 @@
 layout: post
 author: Battleroid
 date: 2014-08-05
-categories: update
+categories: updates
 title: "Twitch & Youtube"
 ---
 
