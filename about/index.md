@@ -15,7 +15,9 @@ After the Reddit vs. 4chan matches and the end of summer, we switched providers 
 
 Including a number to run silly things such as:
 
-* an imageboard (with WebM support, along with sound and a higher limit than what 4chan allows)
+* <span class="strike">an imageboard (with WebM support, along with sound and a higher limit than what 4chan allows)</span>
+* in the future a simple streaming site making use of nginx + RTMP plugin for our own unfiltered streaming of content.
+* MumbleBux (TM) coming soon...
 * a rankings board (a homage to Raidcall's crowns)
 * <span class="strike">a wiki (then for BF3, now for whatever, <span class="spoiler">might kill it, not sure yet</span>)</span>
 * a private mail server (see [mail](/mail))
@@ -71,7 +73,9 @@ The majority of people in the group do not care about the generals or the platoo
 2. We also owned and operated a Battlefield 4 server, first for 24 slots. No one joined except one day we managed to get some people from the generals to join for a bit. It died then another was purchased this time 10 slots. Was used more among the group for fun little games amongst ourselves. On both occasions when the server died no one said a thing, yet people in the generals often say they would "love to have a server for the group". Yet it almost always will remain empty. Moral of the story: Don't buy servers unless you have a group that will actually play on them, you're wasting your money if you don't.
 	* See BFG Mumble that died after two months of <span class="spoiler">no</span> use.
 	* They have started another supposedly for three months, it will be just as inactive as before whether or not they want to admit it.
+	* See their ERP drama for more reasons to avoid.
 3. August 24th, 2014 was the first day we had more people than channels in the Mumble (since munin has been recording which was about Jan 2014). We also have had about 370 registered users captured by the Rankings application.
+4. December of 2014 was the first time we've had our highest recorded users on the mumble. 50 total users.
 
 # Contact
 
