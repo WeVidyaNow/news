@@ -16,14 +16,14 @@ layout: page
 body { background: none !important; margin: 0; }
 header > h1 { margin-top: 0; padding-top: 15px; }
 .wrapper { margin-top: 0; padding-top: 8px; color: white !important; }
-article { font-family: "Times New Roman", Times, serif !important; font-size: 2em; line-height: 2em; text-align: center; text-shadow: 0px 1px 5px rgba(0, 0, 0, 1), 0px 1px 5px rgba(0, 0, 0, 1); -webkit-animation-direction: normal; -webkit-animation-duration: 10s; -webkit-animation-iteration-count: infinite; -webkit-animation-name: usa; -webkit-animation-timing-function: ease; }
+article { font-family: "Times New Roman", Times, serif !important; font-size: 2em; line-height: 2em; text-align: center; text-shadow: 0px 1px 5px rgba(0, 0, 0, 1), 0px 1px 5px rgba(0, 0, 0, 1); -webkit-animation-direction: normal; -webkit-animation-duration: 10s; -webkit-animation-iteration-count: infinite; -webkit-animation-name: usa; -webkit-animation-timing-function: ease; text-transform: uppercase; }
 article ul { list-style: none; padding: 0; }
 </style>
 
 <h1>TRUE 'MURRICANS</h1>
 
 <ul>
-	{% for person in site.data.usa %}
+	{% for person in site.data.usa | sort: "weight" %}
 	<li>{{ person.name }}</li>
 	{% endfor %}
 </ul>
