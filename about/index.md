@@ -76,9 +76,12 @@ The majority of people in the group do not care about the generals or the platoo
 	* See their ERP drama for more reasons to avoid.
 3. August 24th, 2014 was the first day we had more people than channels in the Mumble (since munin has been recording which was about Jan 2014). We also have had about 370 registered users captured by the Rankings application.
 4. December of 2014 was the first time we've had our highest recorded users on the mumble. 50 total users.
+5. We own [cunter-strike.net][cunt].
 
 # Contact
 
 You can contact me through [contact@wevidyanow.com](mailto:contact@wevidyanow.com) or through Mumble under Battleroid. If either of those fail, the [Steam group](http://steamcommunity.com/groups/wevidyanow) is always available.
 
 Please only contact me if it is urgent or if you are facing a technical issue.
+
+[cunt]: http://cunter-strike.net
